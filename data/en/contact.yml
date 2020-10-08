@@ -1,0 +1,28 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : Computer Engineering, Engineering, Prince of Songkhla Univercity, Songkhla, Thailand.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Prince of Songkhla Univercity, Songkhla, Thailand"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: healtyExercise@psu.ac.th"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

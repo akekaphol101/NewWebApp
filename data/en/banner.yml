@@ -1,0 +1,12 @@
+############################### Banner Home ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/b1.webp"
+  bg_image : "images/backgrounds/b1.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Healthy Exercise"
+  content : "Welcome to my web site me"
+  button:
+    enable : true
+    label : "Services"
+    link : "#services"

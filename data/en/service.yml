@@ -1,0 +1,37 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : Training Food
+      image_webp : images/portfolio/food.webp
+      image : images/portfolio/food.jpg
+      content : Training, diet To get a healthy and healthy body.
+      
+    # service item loop
+    - name : Train Running
+      image_webp : images/portfolio/run.webp
+      image : images/portfolio/run.jpg
+      content : Basic running training And preparation before running.
+      
+    # service item loop
+    - name : Training Body.
+      image_webp : images/portfolio/body.webp
+      image : images/portfolio/body.jpg
+      content : Training to make your body look slim And make it strong.
+      
+    # service item loop
+    - name : Graphic Design
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      
+    # service item loop
+    - name : Apps Development
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      
+    # service item loop
+    - name : Networking
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

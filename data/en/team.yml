@@ -1,0 +1,53 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+
+# team member loop
+    - name : Vasupon Jiamsuksujit
+      image_webp : images/team/02.webp
+      image : images/team/02.jpg
+      designation : Manager
+      content : my name Vasupon Jiamsuksujit 6010110729
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-google # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+
+
+
+    # team member loop
+    - name : Akekaphol  Ramkaew
+      image_webp : images/team/01.webp
+      image : images/team/01.jpg
+      designation : CEO
+      content : my name Akekaphol Ramkaew 6010110416
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-google # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+       
+        
+    
+        
+    # team member loop
+    - name : Peeradon Kimpan 
+      image_webp : images/team/03.webp
+      image : images/team/03.jpg
+      designation : Web Developer
+      content : my name Peeradon Kimpan 6010110697
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+        - icon : ti-google # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+   

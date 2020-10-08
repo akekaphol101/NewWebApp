@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Training
+    content : Training begin fitness,healty and exercise. 
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Trophy 
+    content : Is the trophy that we get.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Planing
+    content : Plan for the future.

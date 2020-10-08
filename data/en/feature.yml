@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/t1.jpg
+  image_webp : images/about/t1.webp
+  title : We’re Training For you.
+  content : "We want you to have a healthy body.Because we are training"
+  feature_item : 
+      # feature item loop
+    - title : Heart Pulse
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Heart health is an important issue. 
+      
+      # feature item loop
+    - title : Control Healty
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Keeping the body healthy at all times.
+
+      # feature item loop
+    - title : Evolution
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Change yourself to a better direction.
+      
+      # feature item loop
+    - title : Receive a gift
+      icon : ti-gift # themify icon pack : https://themify.me/themify-icons
+      content : Receive a gift from us when you do your body to the standards.
